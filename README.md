@@ -52,7 +52,7 @@ weighted avg       1.00      1.00      1.00        40
  [ 0 19]]
 ```
 
-## **Deployment Considerations**
+## **5. Deployment Considerations**
 - **Optimize the model for real-world usage** (e.g., TensorFlow Lite, ONNX).
 - **Handle different scanning conditions** (noise, distortions, etc.).
 - **Integrate with a QR code scanner for real-time authentication.**
